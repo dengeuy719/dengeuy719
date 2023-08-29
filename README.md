@@ -2,7 +2,7 @@
 
 
 Welcome to my github!
-
+- :mortar_borad: Where I study: Duke University - Electrical and Computer Engineering
 - 📫 How to reach me: [DengYue@LinkedIn](https://www.linkedin.com/in/yue-deng-9aa32524a/)
 
 
