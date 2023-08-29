@@ -4,6 +4,6 @@
 Welcome to my github!
 - 🎓 Where I study: Duke University - Electrical and Computer Engineering
 - 📫 How to reach me: [DengYue@LinkedIn](https://www.linkedin.com/in/yue-deng-9aa32524a/)
-- :jack_o_lantern: what I love: Hiking
+- :jack_o_lantern: What I love: Hiking
 
 
