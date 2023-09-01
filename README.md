@@ -13,6 +13,6 @@ Welcome to my GitHub profile!
 
 🔌 Connect: Feel free to reach out to me via email at [YueDeng@Gmail](ydeng719@gmail.com). I'm always up for connecting with fellow enthusiasts and professionals in the field.
 
-🌐 LinkedIn: You can also find me over at [YueDeng@Linkedin]([ydeng719@gmail.com](https://www.linkedin.com/in/yue-deng-9aa32524a/)) 
+🌐 LinkedIn: You can also find me over at [YueDeng@Linkedin](https://www.linkedin.com/in/yue-deng-9aa32524a/)
 
 Feel free to explore my repositories and join me on this incredible coding adventure!
