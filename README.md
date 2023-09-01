@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 
 🌄 Passion: When I'm not immersed in code, you'll likely find me out in nature, indulging in my love for hiking. Nature rejuvenates my soul and inspires my work.
 
-🔌 Connect: Feel free to reach out to me via email at [YueDeng@Gmail](ydeng719@gmail.com). I'm always up for connecting with fellow enthusiasts and professionals in the field.
+🔌 Connect: Feel free to reach out to me via email at ydeng719@gmail.com. I'm always up for connecting with fellow enthusiasts and professionals in the field.
 
 🌐 LinkedIn: You can also find me over at [YueDeng@Linkedin](https://www.linkedin.com/in/yue-deng-9aa32524a/)
 
