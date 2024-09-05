@@ -1,6 +1,29 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align='center'>
+  <a href="https://www.linkedin.com/in/christopherambala/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://dev.to/parq254">
+    <img src="https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/christopherambala">
+    <img src="https://img.shields.io/badge/kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
+  </a>
+</div>
+<div id="counter" align='center'>
+<img src="https://komarev.com/ghpvc/?username=Parq254&style=plastic&color=blue" alt=""/>
+</div>
+<div id="wave" align='center'>
+<h1>
+  Hello
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 ### Hello World! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
-
 Welcome to my GitHub profile!
 
 🎓 Education: I am currently pursuing my studies at Duke University, focusing on Computer Engineering. The world of technology and innovation never fails to captivate me.
